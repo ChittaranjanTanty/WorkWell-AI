@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![React](https://img.shields.io/badge/React-19.2.0-blue)](https://reactjs.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 A comprehensive AI system for detecting, explaining, and managing workplace stress using physiological sensor data and machine learning.
 
