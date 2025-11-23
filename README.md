@@ -122,10 +122,6 @@ The application will be available at:
 
 This system is for research and educational purposes. It is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of qualified health providers with questions regarding medical conditions or stress management.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🤝 Contributing
 
 Contributions are welcome! Areas for improvement:
